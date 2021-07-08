@@ -2,7 +2,7 @@
 import time
 from threading import Thread
 
-NUMBER_OF_THREADS = 1
+NUMBER_OF_THREADS = 4
 
 def process_line(in_line):
     #swapcase
